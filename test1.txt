@@ -1,1 +1,3 @@
 elit morbi congue sagittis pharetra, integer euismod habitasse. Quisque fermentum nunc vitae, lobortis magna dictumst. Amet curabitur fusce torquent, class aptent taciti sociosqu ad litora. Vivamus hendrerit himenaeos, ultricies praesent curae
+
+Use -r together with -d to delete remote-tracking branches. Note, that it only makes sense to delete remote-tracking branches if they no longer exist in the remote repository or if git 
