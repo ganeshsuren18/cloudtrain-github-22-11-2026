@@ -1,7 +1,4 @@
 elit morbi congue sagittis pharetra, integer euismod habitasse. Quisque fermentum nunc vitae, lobortis magna dictumst. Amet curabitur fusce torquent, class aptent taciti sociosqu ad litora. Vivamus hendrerit himenaeos, ultricies praesent curae
-The -c and -C options have the exact same semantics as -m and -M, except instead of the branch being renamed, it will be copied to a new name, along with its config and reflog.
-
-With a -d or -D option, <branch-name> will be deleted. You may specify more than one branch for deletion. If the branch currently has a reflog then the reflog will also be deleted.
 
 Use -r together with -d to delete remote-tracking branches. Note, that it only mak
 es sense to delete remote-tracking branches if they no longer exist in the remote reposi
