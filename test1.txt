@@ -3,4 +3,6 @@ The -c and -C options have the exact same semantics as -m and -M, except instead
 
 With a -d or -D option, <branch-name> will be deleted. You may specify more than one branch for deletion. If the branch currently has a reflog then the reflog will also be deleted.
 
-Use -r together with -d to delete remote-tracking branches. Note, that it only makes sense to delete remote-tracking branches if they no longer exist in the remote repository or if git 
+Use -r together with -d to delete remote-tracking branches. Note, that it only mak
+es sense to delete remote-tracking branches if they no longer exist in the remote reposi
+hello how are you tory or if git 
